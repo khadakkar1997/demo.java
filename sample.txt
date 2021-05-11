@@ -1,0 +1,9 @@
+Java
+PHP
+Python
+Node
+c++
+Machine Learning
+Devops
+Artificil Intelligence
+Big Data
